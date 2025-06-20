@@ -3,7 +3,7 @@
 # 🌀 Mini-Enso.ahk
 
 > _"This is not a bot. This is a brushstroke."_  
-> — The Architect
+> — Headache707
 
 ---
 
@@ -13,6 +13,7 @@
 
 This script is a _minimal functional poem_ about what automation really is: not just execution, but intention.
 
+You can run Mini-Enso.exe for the same effect, it's compiled for your convenience.
 ---
 
 ## 🧠 Philosophy
@@ -71,7 +72,7 @@ Mini-Enso demonstrates:
 
 ## 🧘 Author
 
-**@Headache** —  
+**@Headache707** —  
 I build behavioral systems, not spambots.  
 My agents are resilient. Some even kind.  
 This isn't about clicks. It's about cause and effect.
